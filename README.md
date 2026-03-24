@@ -1,2 +1,3 @@
-# flask_docker_app
-Containerizing a Flask App with Docker
+# Flask Docker App
+
+This is a simple Flask application designed to be dockerized in later lessons.
